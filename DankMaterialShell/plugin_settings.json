@@ -1,0 +1,19 @@
+{
+  "dankHyprlandWindows": {
+    "enabled": false
+  },
+  "calculator": {
+    "enabled": true,
+    "trigger": "",
+    "noTrigger": true,
+    "persistHistoryOnFile": false,
+    "keepLastResults": "10",
+    "calcEngine": "qalc"
+  },
+  "dankNotepadModule": {
+    "enabled": false
+  },
+  "claudeCodeUsage": {
+    "enabled": true
+  }
+}
